@@ -1,0 +1,22 @@
+
+.Bt{
+    background-color: var(--color-primary);
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    padding: 3px;
+
+}
+.BtDelete{
+    background-color: var(--color-red);
+        color: white;
+     border: 0;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.Bt:hover,.BtDelete:hover{
+   background-color: var(--color-neutral-dark);
+   color: var(--color-neutral-light);
+   cursor: pointer;
+}

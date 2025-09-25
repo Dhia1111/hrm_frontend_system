@@ -1,0 +1,45 @@
+
+.List{
+    display: flex;
+    list-style: none;
+    align-items: flex-start;
+    flex-direction: column;
+    line-height: 49px;
+    padding-left: 9px;
+}
+
+.Title{
+    align-items: flex-start;
+}
+
+.Container{
+       display: flex
+;
+    align-items: flex-start;
+    flex-flow: column;
+    width: fit-content;
+    background: var(--color-primary);
+    padding: 22px 45px 56px 8px;
+    height: 511px;
+    border-radius: 0px 38px 38px 0px;
+    min-width: 172px;
+    font-size: 14px;
+
+
+}
+
+.Admine{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Link{
+    color:White;
+    
+}
+.Link:hover{
+    background-color:var(--color-neutral-light);
+padding: 3px;
+border-radius: 10px;
+}

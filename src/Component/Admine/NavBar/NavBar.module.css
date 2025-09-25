@@ -1,0 +1,39 @@
+
+
+
+.Container{
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.List{
+display: flex;
+justify-content: flex-start;
+align-items: flex-start;
+flex: 1;
+gap: 40px;
+
+}
+
+.AccountLanguageContainer{
+    display: flex;
+    justify-content: space-around;
+    width: fit-content;
+    gap: 10px;
+        color: var(--color-primary);
+padding-left:15px ;
+padding-right:25px ;
+align-items: center;
+}
+
+.LanguageContainer{
+display: flex;
+position: relative;
+font-family: inherit;
+}
+ 
