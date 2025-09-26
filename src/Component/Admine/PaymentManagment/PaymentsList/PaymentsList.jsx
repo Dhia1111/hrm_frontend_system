@@ -1,0 +1,7 @@
+import Grid from "../../Grid/Grid"
+
+export default function PaymentsList(){
+    
+        return   <Grid/>
+    
+}

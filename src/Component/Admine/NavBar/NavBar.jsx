@@ -26,8 +26,7 @@ return<div className={Styles.Container}>
  
 <select name="" id="" hidden={false} onChange={e=>{changeLanguage(e.target.value); }}>
         <option value="en">English</option>
-    <option value="ar">العربية</option>
-    <option value="fr">français</option>
+     <option value="fr">français</option>
 
     </select>
     

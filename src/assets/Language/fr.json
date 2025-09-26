@@ -43,7 +43,7 @@
   "Email": "Email",
   "PhoneNumber": "Numéro de Téléphone",
   "DateOfBirth": "Date de Naissance",
-
+  
   "IsSettled": "Est Réglé",
   "Bonus": "Prime",
   "AbsenceDeductions": "Déductions d'Absence",
@@ -86,5 +86,12 @@
   "EmployeeHealthcareRate": "Taux Santé Employé",
   "EffectiveDate": "Date d'Entrée en Vigueur",
   "TotalEmployerRate": "Taux Total Employeur",
-  "TotalEmployeeRate": "Taux Total Employé"
+  "TotalEmployeeRate": "Taux Total Employé",
+  "ViewDetails" : "Voir les détails",
+  "Age":"Âge",
+  "Edit":"Modifier",
+  "Delete":"Supprimer",
+  "AddEmployee":"Ajouter un employé"
+
+
 }
